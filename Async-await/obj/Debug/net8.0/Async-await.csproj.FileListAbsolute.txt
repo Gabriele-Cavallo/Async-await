@@ -1,0 +1,14 @@
+C:\Users\Utente\Coding\personal-code\.net\Async-await\Async-await\bin\Debug\net8.0\Async-await.exe
+C:\Users\Utente\Coding\personal-code\.net\Async-await\Async-await\bin\Debug\net8.0\Async-await.deps.json
+C:\Users\Utente\Coding\personal-code\.net\Async-await\Async-await\bin\Debug\net8.0\Async-await.runtimeconfig.json
+C:\Users\Utente\Coding\personal-code\.net\Async-await\Async-await\bin\Debug\net8.0\Async-await.dll
+C:\Users\Utente\Coding\personal-code\.net\Async-await\Async-await\bin\Debug\net8.0\Async-await.pdb
+C:\Users\Utente\Coding\personal-code\.net\Async-await\Async-await\obj\Debug\net8.0\Async-await.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Coding\personal-code\.net\Async-await\Async-await\obj\Debug\net8.0\Async-await.AssemblyInfoInputs.cache
+C:\Users\Utente\Coding\personal-code\.net\Async-await\Async-await\obj\Debug\net8.0\Async-await.AssemblyInfo.cs
+C:\Users\Utente\Coding\personal-code\.net\Async-await\Async-await\obj\Debug\net8.0\Async-await.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Coding\personal-code\.net\Async-await\Async-await\obj\Debug\net8.0\Async-await.dll
+C:\Users\Utente\Coding\personal-code\.net\Async-await\Async-await\obj\Debug\net8.0\refint\Async-await.dll
+C:\Users\Utente\Coding\personal-code\.net\Async-await\Async-await\obj\Debug\net8.0\Async-await.pdb
+C:\Users\Utente\Coding\personal-code\.net\Async-await\Async-await\obj\Debug\net8.0\Async-await.genruntimeconfig.cache
+C:\Users\Utente\Coding\personal-code\.net\Async-await\Async-await\obj\Debug\net8.0\ref\Async-await.dll
